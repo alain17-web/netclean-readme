@@ -1,3 +1,4 @@
+
 # Netclean 
 
 This **REACT JS PROGRESSIVE WEB APPLICATION** was developed for an industrial cleaning company. 
@@ -8,3 +9,5 @@ Previously, their inspectors at various work sites had to report their evaluatio
 The frontend was created in **React JS** and styled mostly in **Sass** with some elements in **Material UI** and **react-bootstrap**.
 
 <h2>Login page</h2>
+
+![netclean-2](https://github.com/user-attachments/assets/c373f7df-38e7-4096-94a6-c727dcd8c876)
