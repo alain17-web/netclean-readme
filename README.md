@@ -17,6 +17,7 @@ Some employees such as inspectors and supervisors can access numerous forms allo
 
 
 
+
 The forms include among others :
 
 
@@ -25,9 +26,13 @@ a quality report
 <img width="1680" alt="qualityForm" src="https://github.com/user-attachments/assets/bdfee799-ec41-40dc-848d-4f1fce7a8cdf">
 
 
-a report for supervisors to score assignments  
+
+a report for supervisors to score assignments 
+
 
 <img width="1184" alt="ratingForm" src="https://github.com/user-attachments/assets/27314512-3663-4474-bfc6-8b31b22c0ccc">
+
+All reports include a feature for clients to sign with touch signature. Some also allow to upload photos Once submitted, the pictures are stored in the database using the **Firebase Storage SDK**.
 
 
 
