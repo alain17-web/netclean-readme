@@ -36,6 +36,10 @@ All reports include a feature for clients to sign with touch signature. Some als
 
 <img width="817" alt="signature photo" src="https://github.com/user-attachments/assets/b3ac7661-9c9e-4514-8067-b8ce3807f205">
 
+<h3>Dashboard</h3> 
+
+The admins can access the dashboard from where they can manage the application and consult the different reports
+
 
 
 
