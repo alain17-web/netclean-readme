@@ -1,7 +1,7 @@
 
 # Netclean 
 
-This **PROGRESSIVE WEB APPLICATION** was developed for an industrial cleaning company. It was created in **React Js** and styled mostly in **Sass** with some elements in **Material UI** and **react-bootstrap**. Here is a brief description as I cannot disclose any more details.
+This **PROGRESSIVE WEB APPLICATION** was developed for an industrial cleaning company. It was created in **React Js** and styled mostly in **Sass** with some elements in **Material UI** and **react-bootstrap**. Here is a brief description only as I obviously cannot share any more details. The names of companies, products and persons displayed on the pictures are imaginary.
 
 Previously, their inspectors at various work sites had to report their evaluations on paper and then bring them to the head office, where they would be manually entered into an Excel file. The purpose of this app was to digitalize the process by using a tablet to collect and send the data directly from the work sites to the HQ via a **FIRESTORE** database, thus saving the company a significant amount of time, resources, and money. Additionally, it enables selected customers to directly access the reports made in their premises. 
 
@@ -51,8 +51,14 @@ and consult the different reports
 
 Some selected clients may - given the correct credentials - access a part of the app reserved for them
 
+<img width="1780" alt="clients" src="https://github.com/user-attachments/assets/b2f19be1-321a-4834-b406-1cd20554d317">
+
+
 
 where they can download or print a PDF version of the reports made at their facilities 
+
+<img width="1269" alt="clientReport" src="https://github.com/user-attachments/assets/da2e0bd1-759b-4113-b3fa-6a920a5081c8">
+
 
 
 
