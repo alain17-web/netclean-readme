@@ -13,4 +13,5 @@ Previously, their inspectors at various work sites had to report their evaluatio
 Using the **Authentication SDK** provided by **FIREBASE**, the login page allows the employees as well as some selected clients to access certain parts of the app depending on their role.
 
 <h3>Forms</h3>
+Some employees such as inspectors and supervisors can access numerous forms allowing them to fill reports directly at a work site and immediately submit the data to a **FIRESTORE** database. As some of the work sites could have unstable internet connection, I created this app as a **PROGRESSIVE WEB APPLICATION** so that the forms could also be filled offline and the data transferred to the database whenever a connection is restored.
 
