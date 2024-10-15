@@ -47,6 +47,14 @@ and consult the different reports
 <img width="887" alt="list" src="https://github.com/user-attachments/assets/3478c8bd-d6c2-48a0-bfbb-ddbece26f96a">
 
 
+<h3>Client Portal</h3>
+
+Some selected clients may - given the correct credentials - access a part of the app reserved for them
+
+
+where they can download or print a PDF version of the reports made at their facilities 
+
+
 
 
 
