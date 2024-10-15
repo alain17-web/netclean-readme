@@ -38,7 +38,14 @@ All reports include a feature for clients to sign with touch signature. Some als
 
 <h3>Dashboard</h3> 
 
-The admins can access the dashboard from where they can manage the application and consult the different reports
+The admins can access the dashboard from where they can manage the application 
+
+<img width="1781" alt="chart" src="https://github.com/user-attachments/assets/14f5cc11-5671-4c78-a73c-f6ed998fcda1">
+
+and consult the different reports
+
+<img width="887" alt="list" src="https://github.com/user-attachments/assets/3478c8bd-d6c2-48a0-bfbb-ddbece26f96a">
+
 
 
 
