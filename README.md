@@ -34,5 +34,8 @@ a report for supervisors to score assignments
 
 All reports include a feature for clients to sign with touch signature. Some also allow to upload photos Once submitted, the pictures are stored in the database using the **Firebase Storage SDK**.
 
+<img width="817" alt="signature photo" src="https://github.com/user-attachments/assets/b3ac7661-9c9e-4514-8067-b8ce3807f205">
+
+
 
 
